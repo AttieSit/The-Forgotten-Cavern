@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Programs\\Epic Games\\UE_4.25\\Projects\\TheForgottenCavern\\Source\\TheForgottenCavern\\TheForgottenCavern.Build.cs",
-		"C:\\Programs\\Epic Games\\UE_4.25\\Projects\\TheForgottenCavern\\Source\\TheForgottenCavern.Target.cs",
-		"C:\\Programs\\Epic Games\\UE_4.25\\Projects\\TheForgottenCavern\\Source\\TheForgottenCavernEditor.Target.cs"
+		"C:\\Users\\attie\\Documents\\The-Forgotten-Cavern\\Source\\TheForgottenCavern\\TheForgottenCavern.Build.cs",
+		"C:\\Users\\attie\\Documents\\The-Forgotten-Cavern\\Source\\TheForgottenCavern.Target.cs",
+		"C:\\Users\\attie\\Documents\\The-Forgotten-Cavern\\Source\\TheForgottenCavernEditor.Target.cs"
 	],
 	"EngineVersion": "4.25.3"
 }
