@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.theforgottencavern-13942748.ue4editor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "C:/Users/bros3/Desktop/170 G41/The-Forgotten-Cavern-main/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "TheForgottenCavern-13942748 [UE Editor]"
+				}
+			}
+		}
+	]
+}
